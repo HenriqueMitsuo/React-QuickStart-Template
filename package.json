@@ -7,8 +7,19 @@
     "lint": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\""
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.0.1",
+    "@emotion/react": "^11.1.1",
+    "@emotion/styled": "^11.0.0",
+    "@snowpack/plugin-postcss": "^1.0.7",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.0.4",
+    "framer-motion": "^2.9.4",
+    "immer": "^8.0.0",
+    "postcss": "^8.1.10",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-query": "^2.26.3",
+    "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
     "@snowpack/plugin-dotenv": "^2.0.4",
