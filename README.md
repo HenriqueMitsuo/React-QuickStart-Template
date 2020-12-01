@@ -1,25 +1,33 @@
-# New Project
+# React Quickstart Template ⚡
+React Typescript template project to quickly bootstrap an idea ⚡
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+## Project Setup 🚀
+`yarn install`
 
-## Available Scripts
+## Available Scripts 📜 
+| Command   | Description            |
+|-----------|------------------------|
+| start     | development server     |
+| build     | builds for production  |
 
-### npm start
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+## Packages 🗳️
+- **UI / CSS / Animation**
+  - Tailwind CSS
+  - Tailwind CSS Typography
+  - Chakra UI
+  - Emotion React
+  - Framer Motion
+  - PostCSS
+- **STATE**
+  - Immer
+- **Router**
+  - Reach Router
+- **MISC**
+  - React Query
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### npm run build
-
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
-
-**For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" to your `snowpack.config.js` config file.
-
-### npm test
-
-Launches the application test runner.
-Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
+## Todo ☑ 
+- [x] Added file structure
+- [ ] Configure Tailwind
+- [ ] Add links to the individual packages
+- [ ] Add link to example project
