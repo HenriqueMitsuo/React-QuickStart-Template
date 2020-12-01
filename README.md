@@ -19,11 +19,11 @@ React Typescript template project to quickly bootstrap an idea ⚡
   - Emotion React
   - Framer Motion
   - PostCSS
-- **STATE**
+- **State**
   - Immer
 - **Router**
   - Reach Router
-- **MISC**
+- **Misc**
   - React Query
 
 ## Todo ☑ 
